@@ -1,5 +1,4 @@
 # Using-Genetic-Algorithm-to-improve-Artificial-Neural-Network
-Genetic Algorithm and Artificial Neural Netowrk
 
 Matlab version: R2014a or above
 
