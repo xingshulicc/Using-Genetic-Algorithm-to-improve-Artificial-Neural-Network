@@ -20,4 +20,4 @@ Notice:
 
 1. The input data in the code ('p', 't') can also be loaed by .txt or .mat file if the size of input is larger.
 
-2. if you want to learn more, send to me eamil: xingshuli600gmail.com
+2. if you want to learn more, send to me eamil: xingshuli600@gmail.com
