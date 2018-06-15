@@ -1,4 +1,4 @@
-# Using-Genetic-Algorithm-to-improve-Artificial-Neural-Network
+# GANN
 
 Matlab version: R2014a or above
 
